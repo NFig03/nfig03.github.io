@@ -1,7 +1,7 @@
 # nfig03.github.io
 
 <iframe width="560" height="315" 
-  src="https://youtu.be/AVgkyLLbWN8" 
+  src="https://www.youtube.com/embed/AVgkyLLbWN8" 
   title="Code Review" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
