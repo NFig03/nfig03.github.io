@@ -5,7 +5,6 @@ title: Noah Figueroa
 
 ## Code Review: Core CS Concepts (Video)
 
-### Description:
 In this video, I review two software artifacts I previously created and discuss planned enhancements. These updates are designed to demonstrate my competencies in software design, algorithms and data structures, and database management.
 
 <iframe width="560" height="315" 
@@ -15,6 +14,8 @@ In this video, I review two software artifacts I previously created and discuss 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen>
 </iframe>
+
+---
 
 ## [Contact Service Program](https://github.com/NFig03/CS-320-SoftwareTest-Automation)
 
