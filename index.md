@@ -3,7 +3,10 @@ layout: default
 title: Noah Figueroa
 ---
 
-## Code Review
+## Code Review: Core CS Concepts (Video)
+
+### Description:
+In this video, I review two software artifacts I previously created and discuss planned enhancements. These updates are designed to demonstrate my competencies in software design, algorithms and data structures, and database management.
 
 <iframe width="560" height="315" 
   src="https://www.youtube.com/embed/AVgkyLLbWN8" 
