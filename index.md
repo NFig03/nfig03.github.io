@@ -41,6 +41,7 @@ The artifact for enhancement one is a Contact Service program simulating a conta
 <img src = "Enhancement%20Two%20Pic.PNG" alt = "Secondary Indicices Code">
 
 Under construction...
+#### [Read the full narrative here...](Enhancement%20Two%20Narrative.pdf)
 
 ---
 
