@@ -40,7 +40,7 @@ The artifact for enhancement one is a Contact Service program simulating a conta
 
 <img src = "Enhancement%20Two%20Pic.PNG" alt = "Secondary Indicices Code">
 
-Under construction...
+Enhancement two was performed on the Contact Service program as well. This enhancement consisted of the addition of secondary indices which allows for more efficient queries. With one hash map, query functions had an O(N) lookup time. Now that there are indices (hash maps) for each attribute, the lookup time is O(1). The original hash map contains integers and contacts as keys and values respectively. Now we have strings as keys and values respectively as individual attributes are tied to IDs. This improves the user experience for all users, despite their time of entry. As more indices were included, some functions needed to be refactored such as the addition, deletion, update, and query functions. Despite the refactoring and extra code, these decisions made the program far more efficient and more scalable. Users are now able to access contacts at the same speed as other users despite the amount of contacts in their lists.
 #### [Read the full narrative here...](Enhancement%20Two%20Narrative.pdf)
 
 ---
