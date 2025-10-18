@@ -51,4 +51,5 @@ Enhancement two was performed on the Contact Service program as well. This enhan
 
 <img src = "Enhancement%20Three%20Pic.PNG" alt = "Functional Dashboard Image">
 
-Under Construction...
+Enhancement three was applied to my Animal Dashboard program, which stores information about animals suitable for various rescue missions based on specific attributes. These animals are located across different shelters, and training teams can filter and identify candidates that meet their criteria. While initially utilizing a MongoDB database, this enhancement consisted of the migration to a MySQL database to be more structured and better aligned with industry standards. Due to the migration, the CRUD functionality of the program needed to be refactored. A new server and database environment were also created to support this updated architecture.
+#### [Read the full narrative here...](Enhancement%20Three%20Narrative.pdf)
